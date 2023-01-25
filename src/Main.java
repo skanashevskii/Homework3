@@ -9,6 +9,7 @@ public class Main {
         task6();
         task7();
         task8();
+
     }
 
             public static void task1 () {
